@@ -1,3 +1,4 @@
+This is a test!
 一.安装Git
 
 $ yum install git
